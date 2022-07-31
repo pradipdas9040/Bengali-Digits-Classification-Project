@@ -1,0 +1,2 @@
+https://www.kaggle.com/datasets/BengaliAI/numta?select=training-a
+https://www.kaggle.com/datasets/BengaliAI/numta?select=training-a.csv
